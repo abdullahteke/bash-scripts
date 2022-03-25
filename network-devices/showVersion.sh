@@ -3,8 +3,8 @@
 set ip [lindex $argv 0]
 
 set resultFile [open "tmp/$ip.showVersion" w]
-set username fatihvpn
-set password fatih.vpn2018
+set username ateke
+set password test23
 
 set timeout 1000
 
